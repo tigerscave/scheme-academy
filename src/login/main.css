@@ -1,0 +1,15 @@
+.header__title {
+  color: #2699FB;
+}
+
+.input__email {
+  background-color: blue;
+}
+
+.input__password {
+  background-color: orange;
+}
+
+.btn__login {
+  color: red;
+}
