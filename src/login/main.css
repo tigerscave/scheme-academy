@@ -1,15 +1,51 @@
 .header__title {
-  color: #2699FB;
+  color:  #0092ff;
+  margin-bottom: 200px;
+  font-weight: normal;
+  text-align: center;
+  margin-top: 300px;
+}
+
+.div__email {
+  text-align: center;
 }
 
 .input__email {
-  background-color: blue;
+  background-color: white;
+  border: 1px  solid #ddf0ff;
+  width: 25%;
+  height: 40px;
+  padding-left: 15px;
+  margin-bottom: 25px;
+  margin-left: 50px;
+}
+
+input::-webkit-input-placeholder {
+  color: #bae1ff;
+}
+
+.div__password {
+  text-align: center;
 }
 
 .input__password {
-  background-color: orange;
+  background-color: white;
+  border: 1px  solid #ddf0ff;
+  width: 25%;
+  height: 40px;
+  padding-left: 15px;
+  margin-bottom: 25px;
+  margin-left: 50px;
+}
+
+.div__login {
+  text-align: center;
 }
 
 .btn__login {
-  color: red;
+  color: #fbfdff;
+  background-color: #0092ff;
+  width: 26%;
+  height: 40px;
+  margin-left: 50px;
 }
